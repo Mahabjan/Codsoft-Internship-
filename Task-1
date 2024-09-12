@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+  <style>
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+    .profile-image {
+    width: 150px; 
+    height: auto; 
+    border-radius: 50%; 
+    display: block; 
+    margin: 10px auto;
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    margin: 0;
+}
+    
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}
+  </style>
+  </head>
+  <body>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+      <h1>Shaik Mahabjan</h1>
+        <p>Web Developer |passionate Designer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+              <li><a href="#Educational Status">Educational status</a></li>
+              <li><a href="#My Skills">My Skills</a></li>
+          
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+      <img src="https://cdn.glitch.global/cadf94bf-1a5f-4d0d-896b-2b8ba954cc26/WhatsApp%20Image%202024-08-06%20at%2010.18.25%20PM.jpeg?v=1722962925906",alt="My picture" class="profile-image">
+        <p>My name is Mahabjan, and I’m currently pursuing a B.Tech in Computer Science at Vishnu Institute of Technology.I have strong intrest in Web Devolopment.I’m passionate  to work on innovative solutions in this field. </p>
+    </section>
+  <section id="Educational Status">
+    <h2> Educational Status </h2>
+    <li>study:Computer Science and Engineering</li>
+    <li>college:Vishnu Institute Of Technology</li>
+    <li>Graduation Year:2027</li>
+    <li>Academic Year:Second Year</li>
+    <li>Intermediate-Gayatri Jr college-97%</li>
+    <li>SSC-ZPHS High school-99%</li>
+  </section>
+
+    <section id="Skills">
+        <h2>My Skills</h2>
+        <div class="skills">
+          <li>HTML&CSS</li>
+          <li>C</li>
+          <li>Interpersonal Communication</li>
+          <li>Critical Thinking</li>
+          <li>Organization</li>
+          <li>Problem Solving</li>
+          <li>Canva</li>
+          <li>Passionate UI Designer</li>
+        </div>
+       
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: 23pa1a05m2@vishnu.edu.in</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/Shaik Mahabjan "target="_blank">https://www.linkedin.com/in/shaik-mahabjan-6a05a22a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
+    </section>
+  <section id="Career Objective">
+    <h2> Career Objective</h2>
+    <p>
+       Soon-to-be graduate (2027) with a passion for web development. I am very passionate in editing
+        and photography. Very curious to learn new technologies in coding and need be a good
+        coder and to become a role model for many people. 
+    </p>
+  </section>
+  <section id="Achievements">
+    <h2>Achievements </h2>
+    <li>Won 2nd price in FAILATHON2K23 conducted in Vishnu Institute Of Technology</li>
+    <li>Won 1st price in Poster Presention(Maths)</li>
+    <li>Achieved a certificate CS101 couse(edX)</li>
+    <li>Achieved a certificate in Self Assessment course(edX)</li>
+    <li>Achieved a certificate by attending TEDX talks</li>
+    <li>Won 1st price in a contest by Edgroom</li>
+    <li>Achieved a certificate by participating in E-Commerce&Tech Quiz of the FLIPKART GRID-6.0 by Flipkart </li>
+    <li>Achieved a certificate in "SPARK TANK2024-INTERNAL HACKTHON"</li>
+  </section>
+  <section id="Hobbies">
+    <h2>Hobbies </h2>
+        <li>Reading books</li>
+        <li>Watching movies</li>
+        <li>Listening to music</li>
+        <li>Photography</li>
+        <li>Editing</li>
+  </section>
+
+    
+</body>
+</html>  
+  </body>
